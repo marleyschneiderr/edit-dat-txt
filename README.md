@@ -24,7 +24,14 @@ To install this project, clone this repository on Github and open it in your per
 To update your package.json file accordingly, run `npm install`. This will install all necessary dependancies since they are all included within the package.json file.
 
 ## Dependencies 
-Webpack.config.js, Heroku 
+Webpack+Workbox
+IndexedDB
+Mini-CSS-Extract Plugin
+Babel
+NodeJS
+Express
+Concurrently
+JavaScript
 
 ## Usage
 After cloning this repository in your preferred IDE, navigate to the running application by clicking the live deployed link at the top of this Github page. Begin modifying your text after you've landed on the page! If you are visiting this application while offline, navigate to the Heroku deployed link and click the "install" button in the top left corner of the page to get started.
