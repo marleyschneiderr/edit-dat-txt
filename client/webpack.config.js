@@ -9,9 +9,9 @@ module.exports = () => {
     entry: {
       main: "./src/js/index.js",
       install: "./src/js/install.js",
-      database: "./src/js/database.js",
-      header: "./src/js/header.js",
-      editor: "./src/js/editor.js",
+      // database: "./src/js/database.js",
+     // header: "./src/js/header.js",
+      // editor: "./src/js/editor.js",
     },
     output: {
       filename: "[name].bundle.js",
