@@ -8,7 +8,7 @@ An awesome text editor that runs in the browser.
 A browser-based text editor. This app is a single-page application that satisfies PWA requirements. It includes a number of data persistence strategies that act as backups in the event that one of the alternatives is not supported by the browser. The application can also be used offline.
 
 ## Screenshot of Live Application
-![alt-text](./client/src/images/logo.png)
+![alt-text](./client/src/images/text.png)
 
 ## Table of Contents
 * [Installation](#installation)
