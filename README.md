@@ -39,6 +39,9 @@ After cloning this repository in your preferred IDE, navigate to the running app
 ## Contributors 
 Starter code provided by edX in partnership with the University of Washington. Thank you to askBCS for assisting in debugging my webpack.config.js file to successfully run.
 
+- Referenced PWA Mini Project: Deploy Contact Directory App on Heroku with Script
+- Referenced Request-Response: The Full-Stack Blog : Heroku Deployment Guide
+
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/license/mit/) license. ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
