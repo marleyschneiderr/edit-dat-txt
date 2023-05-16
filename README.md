@@ -2,6 +2,7 @@
 An awesome text editor that runs in the browser.
 
 ## Live Deployed Link
+https://edit-dat-text.herokuapp.com/
 
 
 ## Description
