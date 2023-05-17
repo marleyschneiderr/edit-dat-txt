@@ -15,7 +15,7 @@ A browser-based text editor. This app is a single-page application that satisfie
 
 ![alt-text](./client/src/images/service-worker.png)
 
-`Manifest File Running:`
+`Manifest Running:`
 
 ![alt-text](./client/src/images/manifest.png)
 
